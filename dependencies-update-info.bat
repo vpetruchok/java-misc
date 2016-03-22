@@ -1,3 +1,3 @@
 @echo off
 
-gradle -b dependencies-update-info.gradle dependencyUpdates -Drevision=release %*
+gradlew.bat -b dependencies-update-info.gradle dependencyUpdates -Drevision=release %*
