@@ -8,6 +8,6 @@ public class ATest {
 
     @Test
     public void abc() {
-        assertThat(true).isEqualTo(true);
+        assertThat(true).isEqualTo(false);
     }
 }
