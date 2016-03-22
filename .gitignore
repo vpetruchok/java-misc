@@ -1,0 +1,22 @@
+# Intellij Idea
+.idea/
+/out/
+*.ipr
+*.iws
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+
+# Maven
+target/
+
+# Testng 
+test-output/
